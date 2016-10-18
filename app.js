@@ -1,1 +1,3 @@
-$(document).ready(function(){$("p").click(function(){$(this).hide();});});:
+ $(document).ready(function(){
+     alert('Welcome to my own pages');
+      });
